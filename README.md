@@ -1,4 +1,4 @@
-# mqtt_paho_cpp
+# mqtt_paho_cpp_subscriber
 
 # Description
 Using MQTT Paho examples in C++ for Linux (client subscriber)  
