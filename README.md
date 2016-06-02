@@ -28,6 +28,9 @@ mosquitto_pub -h [broker's IP] -t [your topic] -m "Hello MQTT!"
 
 ## Requirements
 - [Install mosquitto](http://mosquitto.org/download/)
+```
+sudo apt-get install mosquitto mosquitto-clients
+```
 - [Build Paho](http://www.eclipse.org/paho/clients/cpp/).
 
 ### More info
